@@ -1,4 +1,4 @@
 # media
  
-<img src="https://github.com/MirDanRu/media/blob/master/First.jpg" width="240" height="520" />
+<img src="https://github.com/MirDanRu/media/blob/master/First.jpg"/>
 <img src="https://github.com/MirDanRu/media/blob/master/Second.gif" width="240" height="520" />
